@@ -1,0 +1,29 @@
+Bomberman
+
+Bomberman is a game with bomberman, bombs, and enemies.
+
+Acquire points by killing enemy balloons.
+
+The end goal is to destroy blocks and find the exit gate.
+
+How to play:
+
+W: To move Bomberman up.
+
+A: To move Bomberman left.
+
+S: To move Bomberman down.
+
+D: To move Bomberman right.
+
+Space Bar: To plant a bomb under Bomberman.
+
+Enter: To restart the game once out of lives!
+
+Esc: To exit the game.
+
+Developer:
+
+Derek Hoang
+
+Fall 2019
